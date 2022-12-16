@@ -1,3 +1,5 @@
+Please note, all of this content was written by Open AI's ChatGPT.
+
 # Table of Contents
 
 1.  Introduction to MySQL 8
