@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL 8, data types are used to specify the type of data that a column in a database table can store. Different data types are suitable for different kinds of data, and choosing the right data type can help to ensure the accuracy and efficiency of your database.
 
 MySQL 8 supports a wide range of data types, including:

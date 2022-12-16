@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL, an index is a data structure that improves the speed of data retrieval operations on a database table. Indexes can be created on one or more columns of a table, and they allow the database server to find and retrieve the requested data much faster than it would be able to without an index.
 
 There are several types of indexes in MySQL, including PRIMARY KEY, UNIQUE, and INDEX. The PRIMARY KEY index is used to uniquely identify each row in a table and cannot contain null values. The UNIQUE index is similar to the PRIMARY KEY index, but it allows null values and can be used on multiple columns. The INDEX index is used to improve the performance of SELECT, UPDATE, and DELETE statements and can be used on multiple columns.

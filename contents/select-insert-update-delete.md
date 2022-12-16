@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL 8, the SELECT, INSERT, UPDATE, and DELETE statements are used to retrieve, add, modify, and delete data in a database. These statements are commonly referred to as "CRUD" (create, read, update, delete) operations.
 
 Here is a brief overview of these statements:

@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL, a stored procedure is a reusable program that can be stored in the database and called from within a MySQL application or from the command line. Stored procedures are often used to encapsulate complex logic, improve performance, and increase code reuse.
 
 To create a stored procedure in MySQL, you can use the CREATE PROCEDURE statement in the following syntax:

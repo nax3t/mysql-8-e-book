@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL, you can manage users and their access to the database using the GRANT and REVOKE statements.
 
 To create a new user in MySQL, you can use the CREATE USER statement in the following syntax:

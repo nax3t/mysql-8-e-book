@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL, an aggregate function is a function that performs a calculation on a set of values and returns a single value. Some common aggregate functions in MySQL are SUM, AVG, MIN, and MAX. These functions are often used in conjunction with the GROUP BY clause to calculate statistics for each group of rows.
 
 Here is an example of a SELECT statement with an aggregate function (AVG) and a GROUP BY clause that returns the average salary for each department:

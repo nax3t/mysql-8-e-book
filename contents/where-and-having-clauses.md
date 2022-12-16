@@ -1,3 +1,5 @@
+[Back](/README.md/)
+
 In MySQL, the WHERE clause is used to filter rows from a SELECT, UPDATE, or DELETE statement based on certain conditions. The WHERE clause is used in the following syntax:
 
 
