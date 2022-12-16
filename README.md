@@ -1,10 +1,3 @@
----
-ebook:
-  theme: atom-material.css
-  title: Introduction to MySQL 8 e-book
-  authors: chatgpt
----
-
 # Table of Contents
 
 1.  Introduction to MySQL 8
